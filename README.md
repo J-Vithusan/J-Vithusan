@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @J-Vithusan.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently pursuing a Bachelor of Information Technology (BIT) at the University of Moratuwa.
+- 💞️ I’m looking to collaborate on Web development projects.
+- 📫 How to reach me [Telegram](https://t.me/VjLeoVj).
+- 😄 Pronouns: He
+- ⚡ Fun fact: Did you know that @J-Vithusan is not just passionate about web development, but also has a secret talent for mastering new programming languages in record time? They once learned a new language over a weekend and built a small project with it by Monday morning!

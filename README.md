@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:991b1b,100:dc2626&height=220&section=header&text=Vithusan%20Jeyaseelan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20(MERN%20%26%20Next.js)%20%7C%20Final-Year%20BIT%20%40%20University%20of%20Moratuwa&descAlignY=58&descSize=16" width="100%" alt="Vithusan Jeyaseelan Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:991b1b,100:dc2626&height=220&section=header&text=Vithusan%20Jeyaseelan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20(MERN%20and%20Next.js)%20%7C%20Final-Year%20BIT%20%40%20University%20of%20Moratuwa&descAlignY=58&descSize=16" width="100%" alt="Vithusan Jeyaseelan Banner" />
 </p>
 
 <p align="center">
